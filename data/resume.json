@@ -1,0 +1,176 @@
+{
+  "basics": {
+    "name": "Lapenta Giuseppe",
+    "label": "Programmer",
+    "picture": "",
+    "email": "LapentaGiuseppe@ymail.com",
+    "phone": "0650562325",
+    "website": "Todo",
+    "summary": "Curious, always looking for opportunities to learn new things in Computer Science and general knowledge.",
+    "location": {
+      "address": "40 Rue vernier",
+      "postalCode": "06000",
+      "city": "Nice",
+      "countryCode": "France",
+      "region": "Alpes-Maritimes"
+    },
+    "profiles": [     
+      {
+        "network": "Linkedin",
+        "username": "Giuseppe Lapenta",
+        "url": "https://www.linkedin.com/in/lapentagiuseppe/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Tumeconnais",
+        "url": "https://github.com/Tumeconnais"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Direction des Technologies et des services de l’Information de Nouvelle Caledonie",
+      "position": "Full Stack eveloper",
+      "website": "",
+      "startDate": "01-01-2017",
+      "endDate": "01-05-2018",
+      "summary": "Building a webapp replacing SYDONIA system for customs of New Caledonia. This app compute tax price on customs declaration. it work along Angular 2 with Redux and Spring Framework.",
+      "highlights": [
+      ],
+      "keyword": [
+        "Angular 2", "Redux", "Spring", "Hibernate"
+      ]
+    },
+    {
+      "company": "Air France with SII",
+      "position": "Full Stack Developer",
+      "website": "http://airfrance.fr",
+      "startDate": "15-09-2015",
+      "endDate": "31-12-2017",
+      "summary": "Conception and development of the web application of turnaround management for the Hub Control Center in Roissy-Charles de Gaulle – SWAN project - This web application work in real time with push notification powered by ActiveMQ.",
+      "highlights": [
+      ],
+      "keyword":[
+        "AngularJs", "J2EE", "Spring", "Hibernate", "ActiveMQ"
+      ]
+    },
+    {
+      "company": "SII",
+      "position": "Software Engineer Apprenticeship",
+      "website": "http://sii.fr",
+      "startDate": "01-09-2014",
+      "endDate": "14-09-2015",
+      "summary": "My goal was to create a tool who generates test dedicated to Satellite code for Thales Alenia Space client. My Apprenticeship was divided into three stages: Firstly, I learned how the satellite works with the programming language Ada and how test are developed in a critical environment. Secondly, I programmed in Ada and made tests using the testing software IBM Test realTime with the team already working on the project. Finally, I developed a tool in Java who can generate test for satellite environment. On this project I drafted the specification and developed the tools using Scrum an agile software development methodology.",
+      "highlights": [
+      ],
+      "keyword":[
+        "Java", "Ada", "GWT", "Scrum"
+      ]
+    },
+    {
+      "company": "University of Nice Sophia Antipolis",
+      "position": "Development Internship",
+      "website": null,
+      "startDate": "01-05-2013",
+      "endDate": "31-08-2013",
+      "summary": "Created a website for user Management with a Java Framework used mainly by university and Bonita BPM Workflow software. The goal of this project is to facilitate the registration process and the vision of each user’s rights on services proposed by the university in a simple and scalable environment.",
+      "highlights": [
+      ],
+      "keyword":[
+        "Java", "J2EE", "Bonita BPM", "Maven"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Nice Sophia Antipolis",
+      "area": "Computer Science applied to Business Management",
+      "studyType": "2-year Master’s degree in Miage",
+      "startDate": "2013",
+      "endDate": "2015",
+      "courses": [
+        
+      ]
+    },
+    {
+      "institution": "University of Nice Sophia Antipolis",
+      "area": "Computer Science applied to Business Management",
+      "studyType": "« Licence » (3-year university degree)",
+      "startDate": "2012",
+      "endDate": "2013",
+      "courses": [
+        
+      ]
+    },
+    {
+      "institution": "University of Nice Sophia Antipolis",
+      "area": "Computer Science applied to Business Management",
+      "studyType": "First 2 years of a 3-year university degree in Computer Science",
+      "startDate": "2010",
+      "endDate": "2012",
+      "courses": [
+        
+      ]
+    },
+    {
+      "institution": "Lycée Pierre et Marie Curie",
+      "area": "",
+      "studyType": "Baccalauréat (High school degree) in Science",
+      "startDate": "2009",
+      "endDate": "2009",
+      "courses": [        
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "excellent command (TOEIC: 800/990)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ]
+}
